@@ -1,6 +1,6 @@
 #!/bin/bash
-echo "欢迎使用俊驰一键搭建"
-echo "即将搭建的是5.01版本"
+echo "欢迎使用Style一键搭建"
+echo "即将搭建的是5.1版本"
 echo "准备开始安装"
 read -p "回车后开始安装"
 echo "请输入你的内网ip" 
